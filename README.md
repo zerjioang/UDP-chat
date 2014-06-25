@@ -1,4 +1,4 @@
-UDP Python-Java Based Chat!	{#welcome}
+UDP Python-Java Based Chat!
 =====================
 
 
@@ -14,8 +14,6 @@ Documents
 > 
 > - During localhost mode, there is no need of outgoing Internet connection, you just need a router and ethernet cable.
 > - It can be used via LAN but the client must know the server **IP** and **PORT** before establishing the connection
-
-----------
 
 ## Server features
 
