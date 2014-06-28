@@ -5,7 +5,7 @@ UDP Python-Java Based Chat!
 This is a basic chat made in **Java** and python. The client is coded with Java and the server is made in **Python**
 Codename: **JaPy Chat**
 ----------
-Documents
+Description
 ---------
 
 **JaPy Chat** allows you to create a very basic connection between two computers ( of course, it also works in <i>'localhost'</i> )
