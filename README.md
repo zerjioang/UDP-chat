@@ -19,12 +19,15 @@ Description
 
 > **Protocol:**
 > 
-> TCP/IP -> UDP
+> UDP over TCP/IP
 
 > **Characteristics:**
-
+>
 > Fast UDP connection
+>
 > Asynchronous
+>
+> Custom server address and port
 
 ## License
 This software is available under the GPL3 license. See the LICENSE file for more info.
